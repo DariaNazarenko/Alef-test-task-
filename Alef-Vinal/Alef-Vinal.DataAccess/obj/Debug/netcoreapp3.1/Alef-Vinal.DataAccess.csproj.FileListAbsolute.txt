@@ -1,0 +1,12 @@
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.deps.json
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.dll
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.csprojAssemblyReference.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.AssemblyInfoInputs.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.AssemblyInfo.cs
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.runtimeconfig.json
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.runtimeconfig.dev.json
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.genruntimeconfig.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.pdb
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.csproj.CoreCompileInputs.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.dll
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.DataAccess\obj\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.pdb

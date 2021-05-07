@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+  <div id='response'></div>
+  <form name='postForm'>
+    Code  <input type="text" id="codeInp" size="20px" maxlength="3"><br>
+    Value <input type="text" id="valueInp" size="20px"><br>
+    <button type='submit' name='postBtn'>Create</button><br>
+  </form>
+  <br>
+
+  <form name='patchForm'>
+    Id  <input type="text" id="idInp" size="20px"><br>
+    Code  <input type="text" id="code" size="20px" maxlength="3"><br>
+    Value <input type="text" id="value" size="20px"><br>
+    <button type='submit' name='patchBtn'>Update</button><br>
+  </form>
+  <br>
+
+  <form name='getForm'>
+    <button type='submit' name='getAllBtn'>Get all codes</button><br>
+  </form>
+  <br>
+  <form name='deleteTable'>
+    <button type='submit' name='deleteTable'>Delete table</button><br>
+  </form>
+  <br>
+  
+  <table id='tbl' border=1></table>
+
+  <script src='script.js'></script>
+</body>
+</html>

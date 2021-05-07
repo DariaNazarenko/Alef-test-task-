@@ -1,0 +1,12 @@
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\bin\Debug\netcoreapp3.1\Alef-Vinal.Services.deps.json
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\bin\Debug\netcoreapp3.1\Alef-Vinal.Services.dll
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.csprojAssemblyReference.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.AssemblyInfoInputs.cache
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.AssemblyInfo.cs
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\bin\Debug\netcoreapp3.1\Alef-Vinal.Services.pdb
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.dll
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\bin\Debug\netcoreapp3.1\Alef-Vinal.DataAccess.pdb
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.csproj.CopyComplete
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.dll
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.pdb
+C:\Study\Курсы\Alef\Alef-Vinal\Alef-Vinal.Services\obj\Debug\netcoreapp3.1\Alef-Vinal.Services.csproj.CoreCompileInputs.cache
